@@ -1,0 +1,59 @@
+.beijing{
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top:0rpx;
+  left: 0rpx;
+  bottom: 0rpx;
+  right: 0rpx;
+  opacity: 0.4;
+}
+.info{
+  width: 750rpx;
+  height:210rpx;
+  display: flex;
+}
+.left{
+  width: 200rpx;
+  height: 200rpx;
+  border-radius: 50%;
+  overflow: hidden;
+  margin: 10rpx;
+  display: flex;
+}
+.middle{
+  width: 400rpx;
+  height: 180rpx;
+  margin: 20rpx 0rpx 20rpx 122rpx;
+  text-align: center;
+ 
+}
+.middle-bottom{
+  height: 70rpx;
+  color: #000;
+  font-family: 
+}
+.middle-top{
+  height: 90rpx;
+  color: #dd6980;
+  padding-top: 20rpx;
+}
+#history{
+  width: 750rpx;
+  height: 70rpx;
+}
+#his-left{
+  vertical-align: middle;
+  font-size: 50rpx;
+  margin: 5rpx 80rpx 5rpx 20rpx;
+  font-style: italic;
+}
+#his-middle{
+  margin: 40rpx;
+}
+#his-right{
+  margin: 5rpx 20rpx 5rpx 80rpx;
+  vertical-align: middle;
+  font-size: 50rpx;
+  font-style: italic;
+}

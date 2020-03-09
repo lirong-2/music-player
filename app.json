@@ -1,0 +1,34 @@
+{
+  "pages": [
+    "pages/list/list",
+    "pages/play/play",
+    "pages/self/self"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#DC143C",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "CT音乐",
+    "backgroundColor": "#DC143C",
+    "backgroundTextStyle": "dark",
+    "enablePullDownRefresh": false
+  },
+  "tabBar": {
+    "color": "#DC143C",
+    "selectedColor": "#DC143C",
+    "list": [
+      {
+        "pagePath": "pages/list/list",
+        "text": "音乐列表",
+        "iconPath": "images/music.png",
+        "selectedIconPath": "images/music-active.png"
+      },
+      {
+        "pagePath": "pages/self/self",
+        "text": "我的",
+        "iconPath": "images/my.png",
+        "selectedIconPath": "images/my-active.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap91.json"
+}

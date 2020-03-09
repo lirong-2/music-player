@@ -1,0 +1,84 @@
+/* 轮廓图开始 */
+swiper{
+  width: 750rpx;
+  height: 300rpx;
+}
+swiper image{
+  width: 100%;
+  height: 100%;
+}
+/* 轮廓图结束 */
+/* 搜索框开始 */
+.searcharea{
+   width: 750rpx;
+   height: 70rpx;
+   display: flex;
+   margin:10rpx 0rpx;
+}
+.search-left{
+   width: 500rpx;
+   height: 68rpx;
+   text-align: center;
+   border-radius: 30rpx;
+   border: 1rpx solid rgb(224, 11, 11);
+   margin-right: 50rpx;
+}
+#keyword{
+  margin-top: 8rpx;
+}
+.search-right{
+  width: 180rpx;
+   height:70rpx;
+}
+#searchbtn{
+  height: 70rpx;
+  text-align: center;
+  font-size: 32rpx;
+  background:rgb(233, 48, 48);
+}
+/* 搜索框结束 */
+/* 音乐列表开始 */
+.contair{
+  width: 750rpx;
+  height: 120rpx;
+  display: flex;
+  border-bottom: 1rpx solid #ddffdf;
+  border-radius: 5rpx;
+}
+.left{
+  width: 100rpx;
+  height: 100rpx;
+  margin:8rpx 30rpx;
+  border: 1px solid #bbb;
+}
+.left image{
+  width: 100rpx;
+  height: 100rpx;
+}
+.middle{
+          width: 400rpx;
+          height: 100rpx;
+          margin:8rpx 20rpx;
+}
+#middle-top{
+  height: 60rpx;
+  text-align: center;
+  color: #333;
+}
+#middle-bottom{
+  height: 40rpx;
+  font-size: 27rpx;
+  text-align: center;
+  color: #aaa;
+}
+.right{
+   width: 100rpx;
+   height: 100rpx;
+   margin: 25rpx 40rpx;
+}
+.right image{
+  width:60rpx;
+  height:60rpx;
+  margin-top:8rpx;
+}
+/* 音乐列表结束 */

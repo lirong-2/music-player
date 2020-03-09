@@ -1,0 +1,29 @@
+songs:[
+      {
+        id:"363488",
+        name:"爱不爱我",
+        album:{
+          picUrl:"http://p4.music.126.net/Frbn2mQ18NswoanBk-O1wg==/106652627910743.jpg",
+          name:"永恒的起点"
+        },
+        artists:"零点"
+      },
+      {
+        id:"186385",
+        name:"别怕我伤心",
+        album:{
+          picUrl:"http://p4.music.126.net/ns4zt4X5JPRf42h5q4F7wA==/841126395248902.jpg",
+          name:"张信哲精选"
+        },
+        artists:"张信哲"
+      },
+      {
+        id: "108251",
+        name: "当你",
+        album: {
+          picUrl: "http://p4.music.126.net/tUapZaR1iT5XTX2QcAc0DA==/96757023257715.jpg",
+          name: "她说 概念自选辑"
+        },
+        artists: "林俊杰"
+      }
+    ]
